@@ -1,0 +1,13 @@
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/bin/Debug/netcoreapp3.1/Guias.deps.json
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/bin/Debug/netcoreapp3.1/Guias.runtimeconfig.json
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/bin/Debug/netcoreapp3.1/Guias.runtimeconfig.dev.json
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/bin/Debug/netcoreapp3.1/Guias.dll
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/bin/Debug/netcoreapp3.1/Guias.pdb
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/obj/Debug/netcoreapp3.1/Guias.csproj.AssemblyReference.cache
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/obj/Debug/netcoreapp3.1/Guias.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/obj/Debug/netcoreapp3.1/Guias.AssemblyInfoInputs.cache
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/obj/Debug/netcoreapp3.1/Guias.AssemblyInfo.cs
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/obj/Debug/netcoreapp3.1/Guias.csproj.CoreCompileInputs.cache
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/obj/Debug/netcoreapp3.1/Guias.dll
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/obj/Debug/netcoreapp3.1/Guias.pdb
+/Users/sheiladenisebalmaceda/Projects/Guias/Guias/obj/Debug/netcoreapp3.1/Guias.genruntimeconfig.cache
